@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.roboto {
+    font-family: var(--font-roboto);
+}
+
+.russo {
+    font-family: var(--font-russo_one);
+}
+
+.fugaz {
+    font-family: var(--font-fugaz_one), cursive;
+}
+
+.audiowide {
+    font-family: var(--font-audiowide), cursive;
+}
